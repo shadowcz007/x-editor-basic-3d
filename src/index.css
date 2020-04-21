@@ -1,0 +1,45 @@
+.CodeMirror {
+    border: 1px solid #eee;
+    height: auto;
+}
+
+.basic-3d {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.basic-3d-code {
+    height: 300px;
+    /* min-height: 200px; */
+    width: 50%;
+    min-width: 200px;
+    background-color: #eeeeee;
+    border: 1px solid #eee;
+    margin: 24px;
+}
+
+.basic-3d-code-max {
+    width: 100%;
+}
+
+.basic-3d-play {
+    height: 300px;
+    width: 50%;
+    border: 1px solid gray;
+    background-color: #FDB;
+}
+
+.basic-3d-play-min {
+    width: 100px!important;
+    position: absolute;
+    height: 100px!important;
+    touch-action: none;
+    right: 0;
+    z-index: 99;
+    top: 0;
+}
+
+.basic-3d-hidden {
+    display: none;
+}
