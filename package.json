@@ -24,7 +24,7 @@
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
     "babel-loader": "^8.0.5",
-    "codemirror": "^5.52.2",
+    "codemirror": "^5.58.2",
     "css-loader": "^1.0.0",
     "js-md5": "^0.7.3",
     "postcss-loader": "^3.0.0",
